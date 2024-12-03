@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+Welcome to my project!  
+
+
+Here, you will find the path of my development as a specialist.
 <!--
 **SHVLS/SHVLS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
